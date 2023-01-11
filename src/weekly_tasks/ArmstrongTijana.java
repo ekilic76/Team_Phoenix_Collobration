@@ -20,6 +20,7 @@ Write a method that can check if a number is Armstrong number
 
 
 
+
             Scanner in = new Scanner(System.in);
             armstrongNumber( in.nextInt());
 
